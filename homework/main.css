@@ -1,0 +1,62 @@
+.link {
+    display: flex;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 1px;
+    margin-right: 2%;
+    justify-content: space-evenly;
+    height: 3vh;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    flex-direction: row;
+}
+ 
+
+.nav-cont p{
+    background-image: url('D:\CodingTemple\week1\Day2\Homework\homework\Theatre.png');
+    display: flex;
+    border: 150px solid rgb(173, 57, 57);
+    padding: 1px;
+    margin: 5%;
+    justify-content: center;
+    height: 6vh;
+    color: rgb(0, 0, 0);
+    background-size: cover;
+    flex-direction: row;
+}
+
+
+
+.viewport {
+    display: flex;
+    border: 50px rgb(0, 0, 0);
+    flex-direction: row;
+    padding: 5px;
+    margin-left: 1%;
+    justify-content: space-around;
+    height: 3vh;
+    color: white;
+
+}
+
+.shows {
+    display: flex-end;
+    border: 50px solid rgb(255, 255, 255);
+    height: 150px;
+    width: stretch;
+    margin: auto;
+    text-align: center;
+
+}
+
+.image p{
+    float: right;
+    margin-right: 10px;
+}
+
+.footer {
+    border: 5px solid black;
+    height: 2vh;
+    max-width: 100%;
+    padding: 2%;
+    background-color: black;
+}
